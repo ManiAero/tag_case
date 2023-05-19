@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="tag_case"
+      id="f23f785a-1c51-4d8c-b5a6-e4234b92bb4a"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="tag_case"
+      id="f23f785a-1c51-4d8c-b5a6-e4234b92bb4a"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

@@ -1,0 +1,50 @@
+﻿<repository
+id="f8688fe0-8240-4ccc-a285-22d3f3f5e1f2"
+name="tag_caseRepository">
+	<codegen
+	classname="tag_caseRepository"
+	namespace="tag_case">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="d3f9b2de-809d-4b04-9f6e-3c2b471093fa"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow,controlnet11"
+		capname="form"
+		id="797b59b6-9421-44d3-9203-11c466d84d9d"
+		isrooted="True"
+		name="RxMainFrame"
+		refpath="/form[@controlname='RxMainFrame']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,accessible"
+			capname="text"
+			id="e36243fa-ced7-4b28-bd48-6504b67151e5"
+			name="EnterYourName"
+			refimgid="4cf9db7e-9140-4e52-85e2-635de3b21e84"
+			refpath="/form[@controlname='RxMainFrame']/element[@controlname='RxTabcontrol']/element/element[@controlname='txtUserName']/text[@accessiblename='Enter your name']"
+			robustPath="/form[@controlname='RxMainFrame']//text[@accessiblerole='Text']"
+			searchtimeout="30000ms">
+				/form[@controlname='RxMainFrame']/element[@controlname='RxTabcontrol']//text[@accessiblerole='Text']
+			</item>
+			<basepath>
+				/form[@controlname='RxMainFrame']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAABgSURBVDhPY4CBwMBAv+Dg4P/EYqg2BMAqSAqA
+GXCfVejWA1bhB7jwfTbhI2AN6IAqLiAFg8IMqhUCQIJQJkEAVNuMoZ4UA0Bg1IDhawAQN0O5eAFI
+HYYBpGZnSFJmYAAA/3CKJU4BKYIAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
