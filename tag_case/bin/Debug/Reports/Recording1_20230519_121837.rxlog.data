@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="9.15s"
+		durationms="9152"
+		type="root"
+		rid="193401c5c432a928"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Nocsmart"
+		rxversion="10.7.0.0"
+		host="IND-CMA-002-007"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="5/19/2023 12:18:40 PM"
+		timestampiso="2023-05-19T06:48:40"
+		endtime="5/19/2023 12:18:49 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.938"
+			timeRelativeToTestModuleStartTime="00:06.938"
+			timeWallClock="12:18:47"
+			time="00:06.938"
+			level="Info"
+			category="Set value">
+			<message>
+				Setting attribute TagValue to 'green' on item 'RanorexStudioWebTestPage.Testcolor'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.ranorex.com']//select[#'testcolor']"
+				itempath=".//select[#'testcolor']"
+				fullname="tag_caseRepository.RanorexStudioWebTestPage.Testcolor"
+				id="f30274c79d3a493bb6622c07a9c96b96"
+				timeout="60000"
+				codefile="C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\Recording1.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.337"
+			timeRelativeToTestModuleStartTime="00:08.337"
+			timeWallClock="12:18:49"
+			time="00:08.337"
+			level="Warn"
+			category="WinForms">
+			<message>
+				The control was recognized as a WinForms .NET 1.1 control. If this application targets the .NET Framework v1.1, then please ignore this message. Otherwise, the object recognition is not correct, most probably due to an installation issue.<br/>Please, uninstall and reinstall Ranorex and try again.<br/>Process: 'RxDemoApp' (pid 4132)<br/>(This message is only shown once per report.)
+			</message>
+			<metainfo
+				limitationName="WinFormsNet11"
+				showInProgressDialog="False"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+	</activity>
+</report>

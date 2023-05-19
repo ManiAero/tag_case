@@ -1,0 +1,12 @@
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\bin\Debug\tag_case.rxtmg
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\bin\Debug\tag_case.rxtst
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\bin\Debug\tag_case.exe.config
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\bin\Debug\tag_case.xml
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\bin\Debug\tag_case.exe
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\bin\Debug\tag_case.pdb
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\obj\x86\Debug\tag_case.csproj.AssemblyReference.cache
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\obj\x86\Debug\tag_case.csproj.CoreCompileInputs.cache
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\obj\x86\Debug\tag_case.csproj.CopyComplete
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\obj\x86\Debug\tag_case.exe
+C:\Users\Nocsmart\Documents\Ranorex\RanorexStudio Projects\tag_case\tag_case\obj\x86\Debug\tag_case.pdb
